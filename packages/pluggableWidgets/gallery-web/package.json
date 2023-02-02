@@ -24,7 +24,7 @@
   },
   "testProject": {
     "githubUrl": "https://github.com/mendix/testProjects",
-    "branchName": "gallery-web"
+    "branchName": "gallery-web-1.2.0"
   },
   "packagePath": "com.mendix.widget.web",
   "scripts": {

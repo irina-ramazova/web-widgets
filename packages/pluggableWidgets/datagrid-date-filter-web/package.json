@@ -24,7 +24,7 @@
   },
   "testProject": {
     "githubUrl": "https://github.com/mendix/testProjects",
-    "branchName": "datagrid-date-filter-web"
+    "branchName": "datagrid-date-filter-web-2.4.2"
   },
   "packagePath": "com.mendix.widget.web",
   "scripts": {
