@@ -124,7 +124,6 @@ importers:
     specifiers:
       '@mendix-internal/automation-utils': workspace:*
       '@mendix/prettier-config-web-widgets': workspace:*
-      '@types/core-js': ^0.9.46
       '@types/node': ^18.8.3
       '@types/plotly.js': ~1.36.1
       '@types/react': 17.0.53
@@ -173,7 +172,6 @@ importers:
     devDependencies:
       '@mendix-internal/automation-utils': link:../../../automation/utils
       '@mendix/prettier-config-web-widgets': link:../../shared/prettier-config-web-widgets
-      '@types/core-js': 0.9.46
       '@types/node': 18.11.18
       '@types/plotly.js': 1.36.1
       '@types/react': 17.0.53
@@ -5986,10 +5984,6 @@ packages:
 
   /@types/ckeditor4/4.16.5:
     resolution: {integrity: sha512-tUN9EUWwGvc1WoTKxDs17KSw3G+ZWWNQ0eTbKh9YDucllN1eEcudVcJcKDK7gytcb+1IFF0JkYKpK1Qpz3+wEg==}
-    dev: true
-
-  /@types/core-js/0.9.46:
-    resolution: {integrity: sha512-LooLR6XHes9V+kNYRz1Qm8w3atw9QMn7XeZUmIpUelllF9BdryeUKd/u0Wh5ErcjpWfG39NrToU9MF7ngsTFVw==}
     dev: true
 
   /@types/cross-zip/4.0.0:
