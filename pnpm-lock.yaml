@@ -45,7 +45,7 @@ importers:
       find-free-port: ^2.0.0
       ip: ^1.1.8
       node-fetch: ^2.6.9
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       shelljs: ^0.8.5
       yargs-parser: ^21.1.1
     dependencies:
@@ -60,7 +60,7 @@ importers:
       find-free-port: 2.0.0
       ip: 1.1.8
       node-fetch: 2.6.9
-      prettier: 2.7.1
+      prettier: 2.8.4
       shelljs: 0.8.5
       yargs-parser: 21.1.1
 
@@ -70,15 +70,15 @@ importers:
       '@commitlint/config-conventional': ^17.4.2
       '@mendix/prettier-config-web-widgets': workspace:*
       eslint: ^7.32.0
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       pretty-quick: ^3.1.3
     dependencies:
       '@commitlint/cli': 17.4.2
       '@commitlint/config-conventional': 17.4.2
       '@mendix/prettier-config-web-widgets': link:../../packages/shared/prettier-config-web-widgets
       eslint: 7.32.0
-      prettier: 2.7.1
-      pretty-quick: 3.1.3_prettier@2.7.1
+      prettier: 2.8.4
+      pretty-quick: 3.1.3_prettier@2.8.4
 
   automation/utils:
     specifiers:
@@ -144,7 +144,7 @@ importers:
       fork-ts-checker-webpack-plugin: ^7.3.0
       mendix-client: ^7.15.8
       moment: ^2.29.4
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-big-calendar: 0.19.2
       react-dnd: 2.6.0
@@ -187,7 +187,7 @@ importers:
       eslint: 7.32.0
       fork-ts-checker-webpack-plugin: 7.3.0_leot54mpvtrbhlmxtuzvyiidqe
       mendix-client: 7.15.8
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       rollup: 2.79.1
@@ -216,7 +216,7 @@ importers:
       datagrid-web: workspace:*
       dropdown-sort-web: workspace:*
       gallery-web: workspace:*
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       tree-node-web: workspace:*
       ts-node: ^9.0.0
       typescript: 4.5.4
@@ -236,7 +236,7 @@ importers:
       concurrently: 6.5.1
       copy-and-watch: 0.1.6
       cross-env: 7.0.3
-      prettier: 2.7.1
+      prettier: 2.8.4
       ts-node: 9.1.1_typescript@4.5.4
       typescript: 4.5.4
 
@@ -282,7 +282,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -315,7 +315,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -350,7 +350,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -384,7 +384,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -420,7 +420,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -455,7 +455,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -491,7 +491,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -526,7 +526,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -562,7 +562,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -597,7 +597,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -633,7 +633,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -668,7 +668,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -705,7 +705,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -741,7 +741,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -777,7 +777,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -812,7 +812,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -849,7 +849,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -887,7 +887,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -912,7 +912,7 @@ importers:
       heatmap-chart-web: workspace:*
       line-chart-web: workspace:*
       pie-doughnut-chart-web: workspace:*
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       rollup: ^2.68.0
       time-series-chart-web: workspace:*
       ts-node: ^9.0.0
@@ -935,7 +935,7 @@ importers:
       '@types/node': 18.8.3
       cross-env: 7.0.3
       enzyme: 3.11.0
-      prettier: 2.7.1
+      prettier: 2.8.4
       rollup: 2.79.1
       ts-node: 9.1.1_typescript@4.5.4
       typescript: 4.5.4
@@ -969,7 +969,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-color: ^2.19.3
       react-dom: ~17.0.2
@@ -1007,7 +1007,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1044,7 +1044,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -1080,7 +1080,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1117,7 +1117,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-datepicker: ^4.6.0
       react-dom: ~17.0.2
@@ -1157,7 +1157,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1194,7 +1194,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -1230,7 +1230,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1267,7 +1267,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -1303,7 +1303,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1338,7 +1338,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -1372,7 +1372,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1409,7 +1409,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -1445,7 +1445,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1480,7 +1480,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -1514,7 +1514,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1549,7 +1549,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -1583,7 +1583,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1619,7 +1619,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -1654,7 +1654,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1692,7 +1692,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -1729,7 +1729,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1764,7 +1764,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -1798,7 +1798,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1833,7 +1833,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-overlays: ^5.0.1
@@ -1869,7 +1869,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1904,7 +1904,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -1938,7 +1938,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -1975,7 +1975,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -2011,7 +2011,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2054,7 +2054,7 @@ importers:
       jest: ^26.6.3
       leaflet: ^1.9.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-leaflet: ^2.6.3
@@ -2098,7 +2098,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2136,7 +2136,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -2173,7 +2173,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2208,7 +2208,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -2242,7 +2242,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2278,7 +2278,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -2313,7 +2313,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2349,7 +2349,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       progressbar.js: ^1.0.1
       react: ~17.0.2
       react-dom: ~17.0.2
@@ -2386,7 +2386,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2425,7 +2425,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       rc-slider: ^8.6.6
       rc-tooltip: ^3.7.3
       react: ~17.0.2
@@ -2467,7 +2467,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2504,7 +2504,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -2540,7 +2540,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2583,7 +2583,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -2627,7 +2627,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2668,7 +2668,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       rc-slider: ^8.6.6
       rc-tooltip: ^3.7.3
       react: ~17.0.2
@@ -2710,7 +2710,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2746,7 +2746,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -2781,7 +2781,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2818,7 +2818,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -2854,7 +2854,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2889,7 +2889,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -2923,7 +2923,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -2960,7 +2960,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-popper: ^2.2.5
@@ -2998,7 +2998,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -3033,7 +3033,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -3067,7 +3067,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -3103,7 +3103,7 @@ importers:
       identity-obj-proxy: ^3.0.0
       jest: ^26.6.3
       mendix: ^9.22.62233
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -3138,7 +3138,7 @@ importers:
       identity-obj-proxy: 3.0.0
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -3183,7 +3183,7 @@ importers:
       mendix: ^9.22.62233
       mendix-client: ^7.15.8
       plotly.js: ^2.14.0
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-ace: ^9.4.4
       react-dom: ~17.0.2
@@ -3232,7 +3232,7 @@ importers:
       jest: 26.6.3_ts-node@9.1.1
       mendix: 9.22.62233
       mendix-client: 7.15.8
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -3255,7 +3255,7 @@ importers:
       eslint-plugin-promise: ^4.3.1
       eslint-plugin-react: ~7.28.0
       eslint-plugin-react-hooks: ^4.2.0
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       typescript: 4.5.4
     dependencies:
       '@mendix/prettier-config-web-widgets': link:../prettier-config-web-widgets
@@ -3264,11 +3264,11 @@ importers:
       eslint-config-prettier: 8.5.0_eslint@7.32.0
       eslint-plugin-cypress: 2.12.1_eslint@7.32.0
       eslint-plugin-jest: 24.7.0_kflwomtjv4gawai4p3m2ym7bku
-      eslint-plugin-prettier: 3.4.1_7gsvg5lgwpfdww3i7smtqxamuy
+      eslint-plugin-prettier: 3.4.1_i2mjcfvsgyusf7yuvaiannzfiy
       eslint-plugin-promise: 4.3.1
       eslint-plugin-react: 7.28.0_eslint@7.32.0
       eslint-plugin-react-hooks: 4.6.0_eslint@7.32.0
-      prettier: 2.7.1
+      prettier: 2.8.4
       typescript: 4.5.4
     devDependencies:
       eslint: 7.32.0
@@ -3300,7 +3300,7 @@ importers:
       jest: ^26.6.3
       mendix: ^9.22.62233
       mendix-client: ^7.15.8
-      prettier: ^2.5.1
+      prettier: ^2.8.3
       react: ~17.0.2
       react-dom: ~17.0.2
       react-test-renderer: ~17.0.2
@@ -3333,7 +3333,7 @@ importers:
       jest: 26.6.3
       mendix: 9.22.62233
       mendix-client: 7.15.8
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-test-renderer: 17.0.2_react@17.0.2
@@ -5417,7 +5417,7 @@ packages:
       eslint: 7.32.0
       eslint-config-prettier: 8.5.0_eslint@7.32.0
       eslint-plugin-jest: 24.7.0_kflwomtjv4gawai4p3m2ym7bku
-      eslint-plugin-prettier: 3.4.1_7gsvg5lgwpfdww3i7smtqxamuy
+      eslint-plugin-prettier: 3.4.1_i2mjcfvsgyusf7yuvaiannzfiy
       eslint-plugin-promise: 4.3.1
       eslint-plugin-react: 7.28.0_eslint@7.32.0
       eslint-plugin-react-hooks: 4.6.0_eslint@7.32.0
@@ -5437,7 +5437,7 @@ packages:
       postcss: 8.4.17
       postcss-import: 14.1.0_postcss@8.4.17
       postcss-url: 10.1.3_postcss@8.4.17
-      prettier: 2.7.1
+      prettier: 2.8.4
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-hot-loader: 4.13.0_zsjcj4gvi24ks76nprapl4hsmq
@@ -5536,14 +5536,14 @@ packages:
     resolution: {integrity: sha512-bFvVAZKs59XNmntYjyefn3K4TBykS6E+d6ZW8IcylAs88ZO+TzLhp0dPpi0VKfPzq1Nb+kpDnPRTiwb4zY6NgA==}
     dependencies:
       '@xml-tools/parser': 1.0.11
-      prettier: 2.7.1
+      prettier: 2.8.4
     dev: true
 
   /@prettier/plugin-xml/2.2.0:
     resolution: {integrity: sha512-UWRmygBsyj4bVXvDiqSccwT1kmsorcwQwaIy30yVh8T+Gspx4OlC0shX1y+ZuwXZvgnafmpRYKks0bAu9urJew==}
     dependencies:
       '@xml-tools/parser': 1.0.11
-      prettier: 2.7.1
+      prettier: 2.8.4
     dev: false
 
   /@react-google-maps/api/2.17.1_sfoxds7t5ydpegc3knd667wn6m:
@@ -9086,7 +9086,7 @@ packages:
       vscode-json-languageservice: 4.2.1
     dev: true
 
-  /eslint-plugin-prettier/3.4.1_7gsvg5lgwpfdww3i7smtqxamuy:
+  /eslint-plugin-prettier/3.4.1_i2mjcfvsgyusf7yuvaiannzfiy:
     resolution: {integrity: sha512-htg25EUYUeIhKHXjOinK4BgCcDwtLHjqaxCDsMy5nbnUMkKFvIhMVCp+5GFUXQ4Nr8lBsPqtGAqBenbpFqAA2g==}
     engines: {node: '>=6.0.0'}
     peerDependencies:
@@ -9099,7 +9099,7 @@ packages:
     dependencies:
       eslint: 7.32.0
       eslint-config-prettier: 8.5.0_eslint@7.32.0
-      prettier: 2.7.1
+      prettier: 2.8.4
       prettier-linter-helpers: 1.0.0
 
   /eslint-plugin-promise/4.3.1:
@@ -13478,9 +13478,10 @@ packages:
     dependencies:
       fast-diff: 1.2.0
 
-  /prettier/2.7.1:
-    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
+  /prettier/2.8.4:
+    resolution: {integrity: sha512-vIS4Rlc2FNh0BySk3Wkd6xmwxB0FpOndW5fisM5H8hsZSxU2VWVB5CWIkIjWvrHjIhxk2g3bfMKM87zNTrZddw==}
     engines: {node: '>=10.13.0'}
+    hasBin: true
 
   /pretty-bytes/5.6.0:
     resolution: {integrity: sha512-FFw039TmrBqFK8ma/7OL3sDz/VytdtJr044/QUJtH0wK9lb9jLq9tJyIxUwtQJHwar2BqtiA4iCWSwo9JLkzFg==}
@@ -13514,7 +13515,7 @@ packages:
       react-is: 18.2.0
     dev: true
 
-  /pretty-quick/3.1.3_prettier@2.7.1:
+  /pretty-quick/3.1.3_prettier@2.8.4:
     resolution: {integrity: sha512-kOCi2FJabvuh1as9enxYmrnBC6tVMoVOenMaBqRfsvBHB0cbpYHjdQEpSglpASDFEXVwplpcGR4CLEaisYAFcA==}
     engines: {node: '>=10.13'}
     hasBin: true
@@ -13527,7 +13528,7 @@ packages:
       ignore: 5.2.0
       mri: 1.2.0
       multimatch: 4.0.0
-      prettier: 2.7.1
+      prettier: 2.8.4
     dev: false
 
   /probe-image-size/7.2.3:
