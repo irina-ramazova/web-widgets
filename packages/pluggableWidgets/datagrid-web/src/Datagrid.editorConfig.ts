@@ -305,7 +305,7 @@ export function check(values: DatagridPreviewProps): Problem[] {
 
         // filterAssociationOptions - it will be checked by studio pro.
         const props = ["filterAssociation", "filterAssociationOptionLabel"] as const;
-        const propMessage: Record<typeof props[number], string> = {
+        const propMessage: Record<(typeof props)[number], string> = {
             filterAssociation: "association is not configured.",
             filterAssociationOptionLabel: "caption expression is not configured."
         };
